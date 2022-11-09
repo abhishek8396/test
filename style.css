@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#card1{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+}
+.card2{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-decoration: dashed;
+    color: black;
+    float: left;
+    margin: 20px;
+}
+.card3{
+    float: right;
+    margin: 30px;
+}
+a{
+    color: black;
+    margin-right: 15px;
+}
+hr{
+    width: 100%;
+    
+}
+#card4{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.card6{
+    padding-top: 10px;
+    color: rgba(0, 0, 0, 0.253);
+}
+.card7{
+    width: 100%;
+    height: auto;
+}
+input{
+    text-decoration: none;
+    width: 200px;
+    height: 40px;
+    margin: 30px;
+    text-align: center;
+}
+.card8{
+    position: relative;
+    bottom: 200px;
+}
+#Message{
+    position: relative;
+    top: 70px;
+}
+.card9{
+    position: relative;
+    bottom: 230px;
+}
+.card10{
+    width: 200px;
+    height: 40px;
+    margin: 20px 30px 10px 35px;
+    position: relative;
+    bottom: 250px;
+}
+.card11{
+    width: 210px;
+    height: 40px;
+    border: 1px solid red;
+    border-radius: 20px;
+    background-color: rgba(255, 0, 0, 0.589);
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    bottom: 200px;
+    color: white;
+}
+.card12{
+    height: 700px;
+    background-image: linear-gradient(to top rgba(0, 0, 0, 0.473) rgba(0, 0, 0, 0.24));
+}
